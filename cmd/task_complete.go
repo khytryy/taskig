@@ -2,7 +2,8 @@ package cmd
 
 import (
 	"fmt"
-	"taskig/internal/conf"
+
+	"github.com/khytryy/taskig/internal/conf"
 
 	"github.com/spf13/cobra"
 )

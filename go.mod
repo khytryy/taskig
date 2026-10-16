@@ -1,4 +1,4 @@
-module taskig
+module github.com/khytryy/taskig
 
 go 1.27.1
 
